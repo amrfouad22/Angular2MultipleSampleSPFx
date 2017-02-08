@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "angular-2-spx-multi-client-side-solution",
+    "id": "421f9178-29c0-4278-bca6-90f8a3d936d5",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-2-spx-multi.sppkg"
+  }
+}
